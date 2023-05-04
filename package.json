@@ -11,5 +11,9 @@
   "devDependencies": {
     "@types/node": "^18",
     "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@prisma/client": "4.13.0",
+    "prisma": "^4.13.0"
   }
 }
